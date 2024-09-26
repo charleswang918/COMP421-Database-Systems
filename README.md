@@ -1,6 +1,6 @@
 # Database-Systems
 ## Contents
-The contents of this repository consists of 3 projects are given by Prof. D'silva for COMP 421 Database Systems course during Winter 2022 at McGill University.
+The contents of this repository consists of 3 projects are given by [Prof. D'silva](https://www.cs.mcgill.ca/~jdsilv2/) for COMP 421 Database Systems course during Winter 2022 at McGill University.
 This is a term project consists of 3 deliverables and it's about developing and building a database application for a real-world domain to manage the Midwifery services across the province.
 ## Project 1-ER model design
 Conceptual design of databases (e.g., entity-relationship model), relational data model, functional dependencies.
